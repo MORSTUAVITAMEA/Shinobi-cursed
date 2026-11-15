@@ -1,0 +1,20 @@
+SHINOBI x CURSED REBORN V3
+========================
+
+Questa V3 è un remake completo, non una patch della V2.
+
+COME AGGIORNARE GITHUB PAGES
+1. Apri il tuo repository su github.com da Safari in modalità desktop.
+2. Elimina i vecchi file dalla radice (index.html, sw.js, manifest.webmanifest, icon-192.png, icon-512.png).
+3. Carica nella RADICE i SETTE file della V3:
+   index.html, fighters.png, stages.jpg, sw.js, manifest.webmanifest,
+   icon-192.png, icon-512.png.
+4. Non caricare LEGGIMI.txt (non serve).
+5. Apri l'indirizzo GitHub Pages da una scheda privata e verifica il badge "RIFATTO DA ZERO · V3".
+6. Se avevi installato la PWA vecchia, cancellala dalla schermata Home e installa la nuova.
+
+COMANDI TOUCH: frecce per muoversi, SALTA, PARA, SCATTO, COLPO,
+PESANTE, TECNICA (richiede 25 energia), FINALE (richiede 100 energia).
+Tasti PC: A/D, W, S, J, K, L, U, I.
+
+Progetto fan-made non ufficiale e senza contenuti audio protetti.
