@@ -1,0 +1,20 @@
+SHINOBI × CURSED - PIXEL CLASH DX (VERSIONE 2)
+
+AGGIORNAMENTO GITHUB PAGES
+1. Apri la repository dove hai pubblicato la versione precedente.
+2. Cancella o sostituisci i vecchi index.html, sw.js e manifest.webmanifest.
+3. Carica i 5 file presenti qui nella cartella principale della repository.
+4. Conferma con Commit changes.
+5. Apri il gioco su Safari: attendi la nuova pubblicazione, poi aggiorna la pagina.
+6. Se vedi ancora la versione precedente, chiudi la PWA e apri la pagina da Safari, poi ricarica.
+
+NOVITÀ V2
+- 8 combattenti: Naruto, Sasuke, Kakashi, Itachi, Gojo, Sukuna, Yuji, Megumi.
+- 4 arene: Konoha, Shibuya, Valle della Fine, Scuola Jujutsu.
+- Combo a 3 colpi, colpo pesante, schivata, parata con guardia che si esaurisce.
+- Duello, Arcade (3 avversari), Allenamento.
+- Avversario CPU che può usare combo, pesante e schivata.
+- Salvataggio locale del numero di vittorie.
+
+COMANDI PC: A/D muovi, W salto, J combo, U pesante, K tecnica, L finale, E dash, Shift para.
+FAN GAME GRATUITO, NON UFFICIALE. Nessun asset ufficiale incluso.

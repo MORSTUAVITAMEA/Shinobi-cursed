@@ -1,0 +1,26 @@
+{
+  "name": "Shinobi x Cursed: Pixel Clash DX",
+  "short_name": "Pixel Clash DX",
+  "description": "Picchiaduro in pixel art con 8 personaggi, 4 arene, combo, schivata e modalita arcade",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#090b18",
+  "theme_color": "#090b18",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
